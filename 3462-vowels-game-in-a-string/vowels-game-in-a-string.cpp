@@ -4,13 +4,12 @@ public:
         int count = 0;
         for(int i = 0; i< s.length(); i++){
             if(s[i] == 'a' || s[i] == 'u' || s[i] == 'i' || s[i] == 'o' || s[i] == 'e'){
-                return true;
+                count++;
             }
         }
-        return false;
-        // if(count == 0){
-        //     return false;
-        // }
+        if(count == 0){
+            return false;
+        }
         // int c = 0; 
         // int step = 1;
         // while(c <= count){
@@ -30,6 +29,6 @@ public:
         //         }
         //     }
         // }
-
+        return true;
     }
 };
