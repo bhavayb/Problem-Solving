@@ -15,7 +15,7 @@ public:
         int c2 = 0;
         for(int i = 0; i < s.length(); i++){
             if(s[i] != s1[i]) c1++;
-            if(s[i] != s2[i]) c2++;
+            else if(s[i] != s2[i]) c2++;
         }
         return min(c1, c2);
     }
