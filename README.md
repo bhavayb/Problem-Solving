@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/beta-hulk05/Problem-Solving/tree/master/0011-container-with-most-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavayb/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/beta-hulk05/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/beta-hulk05/Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/beta-hulk05/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
@@ -101,5 +102,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavayb/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0931-minimum-falling-path-sum](https://github.com/bhavayb/Problem-Solving/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
