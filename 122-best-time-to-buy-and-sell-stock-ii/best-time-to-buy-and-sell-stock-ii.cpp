@@ -3,7 +3,6 @@ class Solution {
         if(ind == arr.size()) return 0;
         if(dp[ind][buy] != -1) return dp[ind][buy];
         int profit = 0;
-        if(dp[ind][buy] != -1) return dp[ind][buy];
         if(buy){
             profit = max(-arr[ind] + func(ind+1, 0, arr,dp), 0 + func(ind+1, 1, arr, dp) );
         }else{
