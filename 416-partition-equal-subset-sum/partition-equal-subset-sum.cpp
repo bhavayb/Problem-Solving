@@ -1,19 +1,26 @@
 class Solution {
-    bool func(int i, int k,  vector<int>& nums, vector<vector<int>>& dp){
-        if(k == 0) return true;
-        if(i < 0 || k < 0) return false;
-        if(dp[i][k] != -1) return dp[i][k];
-        return dp[i][k] =  func(i-1, k-nums[i], nums, dp) || func(i-1, k, nums, dp);
+    bool func(int ind, int target, vector<int>& nums,vector<vector<int>>& dp ){
+        if(target == 0) return true;
+        if(ind == 0) return (target == nums[0]);
+
+        if(dp[ind][target] != -1) return dp[ind][target];
+
+        bool nottake = func(ind-1, target, nums, dp);
+        bool take = false;
+        if(target >= nums[ind]) take = func(ind-1, target - nums[ind], nums, dp);
+
+        return dp[ind][target] = take || nottake;
     }
 public:
     bool canPartition(vector<int>& nums) {
         int sum = 0;
-        for(int i = 0; i < nums.size(); i++){
-            sum += nums[i];
+        for(auto num : nums){
+            sum += num;
         }
-        if(sum % 2== 1) return false;
-        vector<vector<int>> dp(nums.size(), vector<int>(sum/2 + 1, -1));
-        
-        return func(nums.size() -1, (sum/2), nums, dp);
+        if(sum%2 != 0) return false;
+
+        int target= sum/2;
+        vector<vector<int>>dp(nums.size(), vector<int>(target+1, -1));
+        return func(nums.size()-1, target, nums, dp);
     }
 };
