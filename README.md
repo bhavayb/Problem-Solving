@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/beta-hulk05/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/beta-hulk05/Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/beta-hulk05/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0540-single-element-in-a-sorted-array](https://github.com/bhavayb/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhavayb/Problem-Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0794-swim-in-rising-water](https://github.com/beta-hulk05/Problem-Solving/tree/master/0794-swim-in-rising-water) |
 | [0826-most-profit-assigning-work](https://github.com/bhavayb/Problem-Solving/tree/master/0826-most-profit-assigning-work) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhavayb/Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhavayb/Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/bhavayb/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0794-swim-in-rising-water](https://github.com/beta-hulk05/Problem-Solving/tree/master/0794-swim-in-rising-water) |
 | [0826-most-profit-assigning-work](https://github.com/bhavayb/Problem-Solving/tree/master/0826-most-profit-assigning-work) |
 | [1612-avoid-flood-in-the-city](https://github.com/beta-hulk05/Problem-Solving/tree/master/1612-avoid-flood-in-the-city) |
