@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhavayb/Problem-Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0794-swim-in-rising-water](https://github.com/beta-hulk05/Problem-Solving/tree/master/0794-swim-in-rising-water) |
 | [0826-most-profit-assigning-work](https://github.com/bhavayb/Problem-Solving/tree/master/0826-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/bhavayb/Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/bhavayb/Problem-Solving/tree/master/0931-minimum-falling-path-sum) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bhavayb/Problem-Solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1345-jump-game-iv](https://github.com/bhavayb/Problem-Solving/tree/master/1345-jump-game-iv) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavayb/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0794-swim-in-rising-water](https://github.com/beta-hulk05/Problem-Solving/tree/master/0794-swim-in-rising-water) |
 | [0826-most-profit-assigning-work](https://github.com/bhavayb/Problem-Solving/tree/master/0826-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/bhavayb/Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bhavayb/Problem-Solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1612-avoid-flood-in-the-city](https://github.com/beta-hulk05/Problem-Solving/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/beta-hulk05/Problem-Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
