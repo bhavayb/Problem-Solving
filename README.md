@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/beta-hulk05/Problem-Solving/tree/master/1612-avoid-flood-in-the-city) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhavayb/Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/bhavayb/Problem-Solving/tree/master/1901-find-a-peak-element-ii) |
+| [2126-destroying-asteroids](https://github.com/bhavayb/Problem-Solving/tree/master/2126-destroying-asteroids) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/bhavayb/Problem-Solving/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/beta-hulk05/Problem-Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/bhavayb/Problem-Solving/tree/master/2540-minimum-common-value) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhavayb/Problem-Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0826-most-profit-assigning-work](https://github.com/bhavayb/Problem-Solving/tree/master/0826-most-profit-assigning-work) |
 | [1612-avoid-flood-in-the-city](https://github.com/beta-hulk05/Problem-Solving/tree/master/1612-avoid-flood-in-the-city) |
+| [2126-destroying-asteroids](https://github.com/bhavayb/Problem-Solving/tree/master/2126-destroying-asteroids) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/beta-hulk05/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0826-most-profit-assigning-work](https://github.com/bhavayb/Problem-Solving/tree/master/0826-most-profit-assigning-work) |
 | [1552-magnetic-force-between-two-balls](https://github.com/bhavayb/Problem-Solving/tree/master/1552-magnetic-force-between-two-balls) |
+| [2126-destroying-asteroids](https://github.com/bhavayb/Problem-Solving/tree/master/2126-destroying-asteroids) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/beta-hulk05/Problem-Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bucket Sort
 |  |
