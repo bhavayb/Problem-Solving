@@ -6,13 +6,15 @@ public:
         unordered_map<int, int> mpp;
         while(r < nums.size()){
             mpp[nums[r]]++;
-            while(mpp.size() > 2){
+            if(mpp.size() > 2){
                 mpp[nums[l]]--;
                 if(mpp[nums[l]] == 0) mpp.erase(nums[l]);
                 l++;
             }
-            int len = r - l +1;
-            maxlen = max(maxlen, len);
+            if(mpp.size() <= 2){
+                int len = r - l +1;
+                maxlen = max(maxlen, len);
+            }
             r++;
         }
         return maxlen;
