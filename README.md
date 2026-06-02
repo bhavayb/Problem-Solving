@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/bhavayb/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/beta-hulk05/Problem-Solving/tree/master/1642-water-bottles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhavayb/Problem-Solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/bhavayb/Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/bhavayb/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/bhavayb/Problem-Solving/tree/master/0931-minimum-falling-path-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/bhavayb/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bhavayb/Problem-Solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1345-jump-game-iv](https://github.com/bhavayb/Problem-Solving/tree/master/1345-jump-game-iv) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhavayb/Problem-Solving/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/beta-hulk05/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhavayb/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/bhavayb/Problem-Solving/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/bhavayb/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/bhavayb/Problem-Solving/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavayb/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1612-avoid-flood-in-the-city](https://github.com/beta-hulk05/Problem-Solving/tree/master/1612-avoid-flood-in-the-city) |
@@ -180,11 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/bhavayb/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/bhavayb/Problem-Solving/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/bhavayb/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavayb/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/bhavayb/Problem-Solving/tree/master/1871-jump-game-vii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/bhavayb/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1871-jump-game-vii](https://github.com/bhavayb/Problem-Solving/tree/master/1871-jump-game-vii) |
 ## Trie
 |  |
