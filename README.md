@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/bhavayb/Problem-Solving/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhavayb/Problem-Solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bhavayb/Problem-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bhavayb/Problem-Solving/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/beta-hulk05/Problem-Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/bhavayb/Problem-Solving/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bhavayb/Problem-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bhavayb/Problem-Solving/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/beta-hulk05/Problem-Solving/tree/master/1612-avoid-flood-in-the-city) |
 | [2126-destroying-asteroids](https://github.com/bhavayb/Problem-Solving/tree/master/2126-destroying-asteroids) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bhavayb/Problem-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bhavayb/Problem-Solving/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/bhavayb/Problem-Solving/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/bhavayb/Problem-Solving/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bhavayb/Problem-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bhavayb/Problem-Solving/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/bhavayb/Problem-Solving/tree/master/2126-destroying-asteroids) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/beta-hulk05/Problem-Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bhavayb/Problem-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bhavayb/Problem-Solving/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bucket Sort
 |  |
 | ------- |
