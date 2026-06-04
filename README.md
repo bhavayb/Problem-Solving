@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/bhavayb/Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/bhavayb/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/bhavayb/Problem-Solving/tree/master/0931-minimum-falling-path-sum) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/bhavayb/Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhavayb/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bhavayb/Problem-Solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1345-jump-game-iv](https://github.com/bhavayb/Problem-Solving/tree/master/1345-jump-game-iv) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/beta-hulk05/Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/beta-hulk05/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/beta-hulk05/Problem-Solving/tree/master/0794-swim-in-rising-water) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/bhavayb/Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1345-jump-game-iv](https://github.com/bhavayb/Problem-Solving/tree/master/1345-jump-game-iv) |
 ## Heap (Priority Queue)
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/beta-hulk05/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/beta-hulk05/Problem-Solving/tree/master/0794-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/bhavayb/Problem-Solving/tree/master/0931-minimum-falling-path-sum) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/bhavayb/Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/bhavayb/Problem-Solving/tree/master/1901-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
