@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/bhavayb/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/beta-hulk05/Problem-Solving/tree/master/1642-water-bottles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhavayb/Problem-Solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bhavayb/Problem-Solving/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/bhavayb/Problem-Solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Simulation
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/bhavayb/Problem-Solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bhavayb/Problem-Solving/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/bhavayb/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bhavayb/Problem-Solving/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bhavayb/Problem-Solving/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bhavayb/Problem-Solving/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
