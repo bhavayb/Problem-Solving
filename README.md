@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/beta-hulk05/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0826-most-profit-assigning-work](https://github.com/bhavayb/Problem-Solving/tree/master/0826-most-profit-assigning-work) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhavayb/Problem-Solving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bhavayb/Problem-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/beta-hulk05/Problem-Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/bhavayb/Problem-Solving/tree/master/2540-minimum-common-value) |
@@ -310,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bhavayb/Problem-Solving/tree/master/2196-create-binary-tree-from-descriptions) |
+## Linked List
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhavayb/Problem-Solving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhavayb/Problem-Solving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
