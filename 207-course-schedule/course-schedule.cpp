@@ -1,33 +1,29 @@
 class Solution {
-    bool dfs(int node, vector<vector<int>>& adjlist, vector<int>& vis, vector<int>& pathvis, int numCourses){
-        vis[node] = 1;
-        pathvis[node] = 1;
-        for(int i = 0; i < adjlist[node].size(); i++){
-            if( pathvis[adjlist[node][i]] == 1) return true;
-            else if(!vis[adjlist[node][i]]){
-                if(dfs(adjlist[node][i], adjlist, vis, pathvis, numCourses)) return true;
-            }
-        }
-        pathvis[node] = 0;
-        return false;
-    }
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adjlist(numCourses+1);
-        for(int i =0; i < prerequisites.size(); i++){
-            int u = prerequisites[i][0];
-            int v = prerequisites[i][1];
-            adjlist[u].push_back(v);
+        vector<vector<int>> adj(numCourses);
+        vector<int> indegree(numCourses);
+        for(auto it: prerequisites){
+            int a = it[0];
+            int b = it[1];
+            adj[b].push_back(a);
+            indegree[a]++;
         }
-        vector<int> vis(numCourses+1, 0);
-        vector<int> pathvis(numCourses+1, 0);
-        for(int i =0; i< vis.size(); i++){
-            if(vis[i] == 0){
-                if(dfs(i, adjlist, vis, pathvis, numCourses) == true){
-                    return false;
-                }
+        // topo sort
+        queue<int> q;
+        for(int i = 0; i < numCourses; i++){
+            if(indegree[i] == 0) q.push(i);
+        }
+        vector<int> ans;
+        while(!q.empty()){
+            int node =q.front();
+            q.pop();
+            ans.push_back(node);
+            for(auto it:adj[node]){
+                indegree[it]--;
+                if(indegree[it] == 0) q.push(it);
             }
         }
-        return true;
+        return (ans.size() == numCourses);
     }
 };
