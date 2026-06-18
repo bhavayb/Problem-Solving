@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhavayb/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/bhavayb/Problem-Solving/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1642-water-bottles](https://github.com/beta-hulk05/Problem-Solving/tree/master/1642-water-bottles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhavayb/Problem-Solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bhavayb/Problem-Solving/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
