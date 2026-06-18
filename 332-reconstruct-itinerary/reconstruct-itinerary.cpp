@@ -6,6 +6,7 @@ class Solution {
             dfs(dummy, ans, mpp);
         }
         ans.push_back(s);
+        return;
     }
 public:
     vector<string> findItinerary(vector<vector<string>>& tickets) {
