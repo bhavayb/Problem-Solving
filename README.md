@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/beta-hulk05/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/bhavayb/Problem-Solving/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/beta-hulk05/Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0743-network-delay-time](https://github.com/bhavayb/Problem-Solving/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bhavayb/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bhavayb/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/bhavayb/Problem-Solving/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/beta-hulk05/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/bhavayb/Problem-Solving/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhavayb/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/bhavayb/Problem-Solving/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/bhavayb/Problem-Solving/tree/master/0904-fruit-into-baskets) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/bhavayb/Problem-Solving/tree/master/0355-design-twitter) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhavayb/Problem-Solving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -336,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/bhavayb/Problem-Solving/tree/master/0802-find-eventual-safe-states) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/bhavayb/Problem-Solving/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
