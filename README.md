@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/bhavayb/Problem-Solving/tree/master/1552-magnetic-force-between-two-balls) |
 | [1612-avoid-flood-in-the-city](https://github.com/beta-hulk05/Problem-Solving/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/bhavayb/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
+| [1732-find-the-highest-altitude](https://github.com/bhavayb/Problem-Solving/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhavayb/Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/bhavayb/Problem-Solving/tree/master/1901-find-a-peak-element-ii) |
 | [2126-destroying-asteroids](https://github.com/bhavayb/Problem-Solving/tree/master/2126-destroying-asteroids) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhavayb/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/bhavayb/Problem-Solving/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/bhavayb/Problem-Solving/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/bhavayb/Problem-Solving/tree/master/2574-left-and-right-sum-differences) |
 ## Trie
