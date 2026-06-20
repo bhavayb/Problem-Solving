@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/bhavayb/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bhavayb/Problem-Solving/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1642-water-bottles](https://github.com/beta-hulk05/Problem-Solving/tree/master/1642-water-bottles) |
+| [1840-maximum-building-height](https://github.com/bhavayb/Problem-Solving/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhavayb/Problem-Solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bhavayb/Problem-Solving/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bhavayb/Problem-Solving/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/bhavayb/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [1732-find-the-highest-altitude](https://github.com/bhavayb/Problem-Solving/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhavayb/Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1840-maximum-building-height](https://github.com/bhavayb/Problem-Solving/tree/master/1840-maximum-building-height) |
 | [1901-find-a-peak-element-ii](https://github.com/bhavayb/Problem-Solving/tree/master/1901-find-a-peak-element-ii) |
 | [2126-destroying-asteroids](https://github.com/bhavayb/Problem-Solving/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bhavayb/Problem-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/bhavayb/Problem-Solving/tree/master/0721-accounts-merge) |
 | [0826-most-profit-assigning-work](https://github.com/bhavayb/Problem-Solving/tree/master/0826-most-profit-assigning-work) |
 | [1552-magnetic-force-between-two-balls](https://github.com/bhavayb/Problem-Solving/tree/master/1552-magnetic-force-between-two-balls) |
+| [1840-maximum-building-height](https://github.com/bhavayb/Problem-Solving/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/bhavayb/Problem-Solving/tree/master/2126-destroying-asteroids) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/beta-hulk05/Problem-Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bhavayb/Problem-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
