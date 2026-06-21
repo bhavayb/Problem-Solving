@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/beta-hulk05/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/beta-hulk05/Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/beta-hulk05/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0503-next-greater-element-ii](https://github.com/bhavayb/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavayb/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0695-max-area-of-island](https://github.com/bhavayb/Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhavayb/Problem-Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/bhavayb/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bhavayb/Problem-Solving/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhavayb/Problem-Solving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Topological Sort
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/bhavayb/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bhavayb/Problem-Solving/tree/master/0739-daily-temperatures) |
 ## Counting Sort
 |  |
