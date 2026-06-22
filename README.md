@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/beta-hulk05/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/beta-hulk05/Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/beta-hulk05/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0485-max-consecutive-ones](https://github.com/bhavayb/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/bhavayb/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavayb/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0695-max-area-of-island](https://github.com/bhavayb/Problem-Solving/tree/master/0695-max-area-of-island) |
