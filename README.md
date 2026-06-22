@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhavayb/Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavayb/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhavayb/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/bhavayb/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/bhavayb/Problem-Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhavayb/Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0332-reconstruct-itinerary](https://github.com/bhavayb/Problem-Solving/tree/master/0332-reconstruct-itinerary) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bhavayb/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/bhavayb/Problem-Solving/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/bhavayb/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/beta-hulk05/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/bhavayb/Problem-Solving/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhavayb/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bhavayb/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/bhavayb/Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/bhavayb/Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/bhavayb/Problem-Solving/tree/master/0721-accounts-merge) |
