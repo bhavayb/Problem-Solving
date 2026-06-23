@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bhavayb/Problem-Solving/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1871-jump-game-vii](https://github.com/bhavayb/Problem-Solving/tree/master/1871-jump-game-vii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bhavayb/Problem-Solving/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/bhavayb/Problem-Solving/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/bhavayb/Problem-Solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/bhavayb/Problem-Solving/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/bhavayb/Problem-Solving/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/bhavayb/Problem-Solving/tree/master/2574-left-and-right-sum-differences) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/bhavayb/Problem-Solving/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Trie
 |  |
 | ------- |
