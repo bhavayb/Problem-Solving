@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/beta-hulk05/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhavayb/Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/bhavayb/Problem-Solving/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/bhavayb/Problem-Solving/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/bhavayb/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhavayb/Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavayb/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/beta-hulk05/Problem-Solving/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/bhavayb/Problem-Solving/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhavayb/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhavayb/Problem-Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0826-most-profit-assigning-work](https://github.com/bhavayb/Problem-Solving/tree/master/0826-most-profit-assigning-work) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bhavayb/Problem-Solving/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavayb/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhavayb/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/bhavayb/Problem-Solving/tree/master/0152-maximum-product-subarray) |
