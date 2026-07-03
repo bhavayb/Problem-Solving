@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/bhavayb/Problem-Solving/tree/master/1345-jump-game-iv) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhavayb/Problem-Solving/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/bhavayb/Problem-Solving/tree/master/1552-magnetic-force-between-two-balls) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/bhavayb/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1612-avoid-flood-in-the-city](https://github.com/beta-hulk05/Problem-Solving/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/bhavayb/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [1732-find-the-highest-altitude](https://github.com/bhavayb/Problem-Solving/tree/master/1732-find-the-highest-altitude) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhavayb/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhavayb/Problem-Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0826-most-profit-assigning-work](https://github.com/bhavayb/Problem-Solving/tree/master/0826-most-profit-assigning-work) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/bhavayb/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1612-avoid-flood-in-the-city](https://github.com/beta-hulk05/Problem-Solving/tree/master/1612-avoid-flood-in-the-city) |
 | [1833-maximum-ice-cream-bars](https://github.com/bhavayb/Problem-Solving/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/bhavayb/Problem-Solving/tree/master/2126-destroying-asteroids) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/bhavayb/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/bhavayb/Problem-Solving/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bhavayb/Problem-Solving/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/bhavayb/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1871-jump-game-vii](https://github.com/bhavayb/Problem-Solving/tree/master/1871-jump-game-vii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bhavayb/Problem-Solving/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/bhavayb/Problem-Solving/tree/master/3620-network-recovery-pathways) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/bhavayb/Problem-Solving/tree/master/0721-accounts-merge) |
 | [1189-maximum-number-of-balloons](https://github.com/bhavayb/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavayb/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/bhavayb/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1871-jump-game-vii](https://github.com/bhavayb/Problem-Solving/tree/master/1871-jump-game-vii) |
 | [3093-longest-common-suffix-queries](https://github.com/bhavayb/Problem-Solving/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bhavayb/Problem-Solving/tree/master/3120-count-the-number-of-special-characters-i) |
