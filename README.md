@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/bhavayb/Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/bhavayb/Problem-Solving/tree/master/0127-word-ladder) |
 | [0407-trapping-rain-water-ii](https://github.com/beta-hulk05/Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/beta-hulk05/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/bhavayb/Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavayb/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bhavayb/Problem-Solving/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bhavayb/Problem-Solving/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/bhavayb/Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavayb/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bhavayb/Problem-Solving/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Linked List
