@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/bhavayb/Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhavayb/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bhavayb/Problem-Solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1288-remove-covered-intervals](https://github.com/bhavayb/Problem-Solving/tree/master/1288-remove-covered-intervals) |
 | [1345-jump-game-iv](https://github.com/bhavayb/Problem-Solving/tree/master/1345-jump-game-iv) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhavayb/Problem-Solving/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/bhavayb/Problem-Solving/tree/master/1552-magnetic-force-between-two-balls) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/beta-hulk05/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/bhavayb/Problem-Solving/tree/master/0721-accounts-merge) |
 | [0826-most-profit-assigning-work](https://github.com/bhavayb/Problem-Solving/tree/master/0826-most-profit-assigning-work) |
+| [1288-remove-covered-intervals](https://github.com/bhavayb/Problem-Solving/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/bhavayb/Problem-Solving/tree/master/1552-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/bhavayb/Problem-Solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/bhavayb/Problem-Solving/tree/master/1840-maximum-building-height) |
