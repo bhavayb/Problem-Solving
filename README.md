@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/bhavayb/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/bhavayb/Problem-Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhavayb/Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/bhavayb/Problem-Solving/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/bhavayb/Problem-Solving/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/beta-hulk05/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/beta-hulk05/Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/bhavayb/Problem-Solving/tree/master/0056-merge-intervals) |
+| [0274-h-index](https://github.com/bhavayb/Problem-Solving/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/bhavayb/Problem-Solving/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/beta-hulk05/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/bhavayb/Problem-Solving/tree/master/0721-accounts-merge) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/bhavayb/Problem-Solving/tree/master/0274-h-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/bhavayb/Problem-Solving/tree/master/1833-maximum-ice-cream-bars) |
 ## Merge Sort
 |  |
