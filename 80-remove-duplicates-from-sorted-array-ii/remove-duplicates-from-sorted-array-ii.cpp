@@ -1,25 +1,21 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        map<int,int> mpp;
-        for(auto it: nums){
-            mpp[it]++;
-        }
-        int cnt=  0;
-        int i = 0;
-        for(auto it: mpp ){
-            if(it.second == 1){
-                cnt++;
-                nums[i] = it.first;
-                i++;
+        int i = 0; int j = 1;
+        int n = nums.size();
+        while(j < n){
+            if(nums[i] != nums[j]){
+                swap(nums[i+1], nums[j]);
+                i++; j++;
             }else{
-                cnt = cnt+2;
-                nums[i] = it.first;
-                i++;
-                nums[i] = it.first;
-                i++;
+                if(i > 0 && nums[i-1] == nums[i]){
+                    j++;
+                }else{
+                    swap(nums[i+1], nums[j]);
+                    i++; j++;
+                }
             }
         }
-        return cnt;
+        return i+1;
     }
 };
