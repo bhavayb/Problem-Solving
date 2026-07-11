@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/bhavayb/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/bhavayb/Problem-Solving/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavayb/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/bhavayb/Problem-Solving/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1612-avoid-flood-in-the-city](https://github.com/beta-hulk05/Problem-Solving/tree/master/1612-avoid-flood-in-the-city) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bhavayb/Problem-Solving/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/bhavayb/Problem-Solving/tree/master/2540-minimum-common-value) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/bhavayb/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/bhavayb/Problem-Solving/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bhavayb/Problem-Solving/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/bhavayb/Problem-Solving/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/bhavayb/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1871-jump-game-vii](https://github.com/bhavayb/Problem-Solving/tree/master/1871-jump-game-vii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bhavayb/Problem-Solving/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/bhavayb/Problem-Solving/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bhavayb/Problem-Solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bhavayb/Problem-Solving/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## String
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/bhavayb/Problem-Solving/tree/master/0721-accounts-merge) |
 | [1189-maximum-number-of-balloons](https://github.com/bhavayb/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavayb/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/bhavayb/Problem-Solving/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/bhavayb/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1871-jump-game-vii](https://github.com/bhavayb/Problem-Solving/tree/master/1871-jump-game-vii) |
 | [3093-longest-common-suffix-queries](https://github.com/bhavayb/Problem-Solving/tree/master/3093-longest-common-suffix-queries) |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhavayb/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/bhavayb/Problem-Solving/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1732-find-the-highest-altitude](https://github.com/bhavayb/Problem-Solving/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/bhavayb/Problem-Solving/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/bhavayb/Problem-Solving/tree/master/2574-left-and-right-sum-differences) |
