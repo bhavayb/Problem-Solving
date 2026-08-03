@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavayb/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhavayb/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bhavayb/Problem-Solving/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/bhavayb/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [1642-water-bottles](https://github.com/beta-hulk05/Problem-Solving/tree/master/1642-water-bottles) |
 | [1840-maximum-building-height](https://github.com/bhavayb/Problem-Solving/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhavayb/Problem-Solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bhavayb/Problem-Solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/bhavayb/Problem-Solving/tree/master/1288-remove-covered-intervals) |
 | [1345-jump-game-iv](https://github.com/bhavayb/Problem-Solving/tree/master/1345-jump-game-iv) |
+| [1406-stone-game-iii](https://github.com/bhavayb/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bhavayb/Problem-Solving/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhavayb/Problem-Solving/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/bhavayb/Problem-Solving/tree/master/1552-magnetic-force-between-two-balls) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/bhavayb/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/bhavayb/Problem-Solving/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bhavayb/Problem-Solving/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1406-stone-game-iii](https://github.com/bhavayb/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/bhavayb/Problem-Solving/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/bhavayb/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1871-jump-game-vii](https://github.com/bhavayb/Problem-Solving/tree/master/1871-jump-game-vii) |
@@ -555,4 +558,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bhavayb/Problem-Solving/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/bhavayb/Problem-Solving/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/bhavayb/Problem-Solving/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/bhavayb/Problem-Solving/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
