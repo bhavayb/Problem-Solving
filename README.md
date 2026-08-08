@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bhavayb/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/bhavayb/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/bhavayb/Problem-Solving/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/bhavayb/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/beta-hulk05/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/bhavayb/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/bhavayb/Problem-Solving/tree/master/0127-word-ladder) |
 | [0332-reconstruct-itinerary](https://github.com/bhavayb/Problem-Solving/tree/master/0332-reconstruct-itinerary) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhavayb/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/bhavayb/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhavayb/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/bhavayb/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhavayb/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
