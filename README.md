@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/bhavayb/Problem-Solving/tree/master/0050-powx-n) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bhavayb/Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavayb/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhavayb/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
@@ -598,4 +599,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/bhavayb/Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/bhavayb/Problem-Solving/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
