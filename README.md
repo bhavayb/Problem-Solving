@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/bhavayb/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [1642-water-bottles](https://github.com/beta-hulk05/Problem-Solving/tree/master/1642-water-bottles) |
 | [1840-maximum-building-height](https://github.com/bhavayb/Problem-Solving/tree/master/1840-maximum-building-height) |
+| [1922-count-good-numbers](https://github.com/bhavayb/Problem-Solving/tree/master/1922-count-good-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhavayb/Problem-Solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bhavayb/Problem-Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhavayb/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -603,4 +604,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/bhavayb/Problem-Solving/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/bhavayb/Problem-Solving/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
