@@ -1,37 +1,27 @@
 class Solution {
-pair<int,int>count(const string &strs){
-    int numzero=0;
-    int numone=0;
-    for(char ch:strs)
-    {
-        if(ch=='0') numzero++;
-        if(ch=='1') numone++;
-
+    int func(int i, int one, int zero, int m, int n, vector<pair<int,int>>& vec,vector<vector<vector<int>>> &dp ){
+        if(i >= vec.size())return 0;
+        if(dp[i][one][zero]!= -1)return dp[i][one][zero];
+        int take = 0;
+        if(vec[i].first + zero <= m && vec[i].second + one <= n){
+            take = 1 + func(i+1, vec[i].second+one, vec[i].first+zero, m, n, vec, dp);
+        }
+        int nottake = func(i+1, one, zero, m, n, vec,dp);
+        return dp[i][one][zero] = max(take, nottake);
     }
-    return{numzero,numone};
-
-}
-
-int length(int index,vector<string>&strs,int m, int n,int zerocount,int onecount,vector<vector<vector<int>>>&dp)
-{
-    if(index==strs.size()) return 0;
-    if(zerocount==m && onecount==n) return 0;
-    if(dp[index][zerocount][onecount]!=-1) return dp[index][zerocount][onecount];
-    pair<int,int>freq=count(strs[index]);
-    int zerofreq=freq.first;
-    int onefreq=freq.second;
-    int take=0;
-    if(zerocount+zerofreq<=m && onecount+onefreq<=n){
-        take=1+length(index+1,strs,m,n,zerocount+zerofreq,onecount+onefreq,dp);
-    }
-        int nottake=length(index+1,strs,m,n,zerocount,onecount,dp);
-
-        return dp[index][zerocount][onecount]=max(take,nottake);
-
-}
 public:
     int findMaxForm(vector<string>& strs, int m, int n) {
-        vector<vector<vector<int>>>dp(strs.size(),vector<vector<int>>(m+1,vector<int>(n+1,-1)));
-         return length(0,strs,m,n,0,0,dp);
+        vector<pair<int,int>> vec;
+        for(int i =0;i< strs.size(); i++){
+            int zeros = 0; int ones = 0;
+            for(int j = 0; j < strs[i].length(); j++){
+                if(strs[i][j] == '1')ones++;
+                else zeros++;
+            }
+            vec.push_back({zeros,ones});
+        }
+        int z = vec.size();
+        vector<vector<vector<int>>> dp(z, vector<vector<int>>(n+1, vector<int>(m+1, -1)));
+        return func(0, 0, 0, m, n, vec, dp);
     }
 };
